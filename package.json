@@ -4,7 +4,8 @@
   "description": "<h2>A API retorna dados fictícios em PT-BR de fones de ouvido sem fio, sendo esses dados: id, marca, preço, modelo, descrição e imagem do produto</h2>",
   "main": "api.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api"
   },
   "repository": {
     "type": "git",
