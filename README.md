@@ -1,8 +1,8 @@
 # API Wireless Earphones
 
 ## Sobre
-<h2>A API retorna dados fictícios em PT-BR de dez fones de ouvido sem fio, sendo esses dados: id, marca, preço, modelo, descrição e imagem do produto</h2>
-<p>Uma API simples que retorna dados de fones de ouvido sem fio, para consumir em outra aplicação.</p>
+<p>Esse projeto é uma API simples que retorna dados de fones de ouvido sem fio. Feita no intuíto de consumir em outra aplicação minha com React. (https://github.com/gabrielduete/Cocktail-Store)</p>
+<p>A API retorna dados fictícios em PT-BR de dez fones de ouvido sem fio, sendo esses dados: id, marca, preço, modelo, descrição e imagem do produto</p>
 <p><strong><em>Todas as imagens foram pegas do pixabay, que é livre de direitos autorais</em></strong>. Confira aqui: https://pixabay.com/pt/images/search/fone%20de%20ouvido%20sem%20fio/</p>
 
 ## Tecnologias
