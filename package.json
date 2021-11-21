@@ -1,0 +1,23 @@
+{
+  "name": "API-Wireless_Earphones",
+  "version": "1.0.0",
+  "description": "<h2>A API retorna dados fictícios em PT-BR de fones de ouvido sem fio, sendo esses dados: id, marca, preço, modelo, descrição e imagem do produto</h2>",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielduete/API-Wireless_Earphones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielduete/API-Wireless_Earphones/issues"
+  },
+  "homepage": "https://github.com/gabrielduete/API-Wireless_Earphones#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
