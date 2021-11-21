@@ -9,6 +9,9 @@
 
 - [NodeJS](https://nodejs.org/en/)
 
+## Como usar
+<p>Basta usar a cdn da API na sua aplicação: https://api-wireless-earphone.herokuapp.com/fones </p>
+
 ## Preview
 
 <img src = "https://media.discordapp.net/attachments/878474586197491834/911865874468708372/vpLq1AAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACQxIYVVT9f2niTA72ntwTAAAAAElFTkSuQmCC.png?width=1014&height=479" alt = 'img-preview'>
