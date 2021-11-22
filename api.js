@@ -72,14 +72,14 @@ app.get('/fones', (req, res) => {
             "preco": 23.12, 
             "modelo": "Totros",
             "descricao": 'Totros, o fone feito para quem deseja noites ouvindo musicas de qualidade.',
-            "srcImg": 'https://cdn.pixabay.com/photo/2012/02/22/20/09/headphones-15600_960_720.jpg'
+            "srcImg": 'https://cdn.pixabay.com/photo/2016/03/19/23/03/handsfree-1267605_960_720.jpg'
         },
         {
             "id": 8, "marca": "Blues", 
             "preco": 205.32, 
             "modelo": "Golos",
             "descricao": 'Golos é o melhor fone custo-benefício do mercado, trazendo um preço que compre com sua demanda.',
-            "srcImg": 'https://cdn.pixabay.com/photo/2021/06/26/10/44/airpods-6365870_960_720.jpg'
+            "srcImg": 'https://cdn.pixabay.com/photo/2018/03/29/22/59/beats-3273952_960_720.jpg'
         },
         {
             "id": 9, 
